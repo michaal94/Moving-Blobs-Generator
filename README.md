@@ -50,11 +50,11 @@ In addition the program generates validation image with all generated samples fo
 ## Sample
 Below the sample output of the code is shown (for the provided sample images). Firstly, the generated images:
 
-<img src="/blob_generation/generated_sample_0002_1.jpg" alt="Sample #1" width="640"/>
-<img src="/blob_generation/generated_sample_0002_2.jpg" alt="Sample #2" width="640"/>
-<img src="/blob_generation/generated_sample_0002_3.jpg" alt="Sample #3" width="640"/>
+<img src="/blob_generation/generated/generated_sample_0002_1.jpg" alt="Sample #1" width="640"/>
+<img src="/blob_generation/generated/generated_sample_0002_2.jpg" alt="Sample #2" width="640"/>
+<img src="/blob_generation/generated/generated_sample_0002_3.jpg" alt="Sample #3" width="640"/>
 
 and the verification image:
 
-<img src="/blob_generation/generated_sample_0002_verif.jpg" alt="Verification" width="640"/>
+<img src="/blob_generation/generated/generated_sample_0002_verif.jpg" alt="Verification" width="640"/>
 
